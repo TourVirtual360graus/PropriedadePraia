@@ -1,0 +1,122 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send?1=pt_BR&phone=5548996792381
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = https://api.whatsapp.com/send?1=pt_BR&phone=5548996792381
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send?1=pt_BR&phone=5548996792381
+LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = https://api.whatsapp.com/send?1=pt_BR&phone=5548996792381
+LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://g.page/r/CanJqJnwXSzAEBE/review
+LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://g.page/r/CanJqJnwXSzAEBE/review
+LinkBehaviour_106F98E3_1E9C_1266_41B5_1E696ED9292C.source = https://www.escritolandia.com.br/
+LinkBehaviour_0EC8CA5C_1EBD_F1A2_41B0_717140FE12E8.source = https://www.escritolandia.com.br/
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/thayarapeters.corretoradeimoveis
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/thayarapeters.corretoradeimoveis
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Barauto+Autom%C3%B3veis/@-27.5745789,-48.6139739,15z/data=!4m2!3m1!1s0x0:0xc02c5df099a8c9a9?sa=X&ved=2ahUKEwiCgcm01Pb7AhU_LbkGHW6yC54Q_BJ6BAhOEAg
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Barauto+Autom%C3%B3veis/@-27.5745789,-48.6139739,15z/data=!4m2!3m1!1s0x0:0xc02c5df099a8c9a9?sa=X&ved=2ahUKEwiCgcm01Pb7AhU_LbkGHW6yC54Q_BJ6BAhOEAg
+LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/thayara.peters
+LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/thayara.peters
+LinkBehaviour_432DFE7B_4C02_92DD_41D4_5C5BAB1AD98A.source = //www.youtube.com/embed/G2Z02XZyGxM
+LinkBehaviour_425D3B72_4C02_B2EC_41D4_B70C46350C68.source = //www.youtube.com/embed/G2Z02XZyGxM
+
+## Media
+
+### Audio
+audio_071A236E_2DD9_932C_4199_B4A4A3B7DA56.path = null
+audio_087C4FBC_2D5A_B32C_41B3_F7C71668B9EF.path = null
+audiores_039550A9_2D3F_8DD7_41BE_C8DED418036D.mp3Url = media/audio_071A236E_2DD9_932C_4199_B4A4A3B7DA56_pt.mp3
+audiores_039550A9_2D3F_8DD7_41BE_C8DED418036D.oggUrl = media/audio_071A236E_2DD9_932C_4199_B4A4A3B7DA56_pt.ogg
+audiores_1F8DFE59_22DA_9574_41BD_D84C1D0CA280.mp3Url = media/audio_087C4FBC_2D5A_B32C_41B3_F7C71668B9EF_pt.mp3
+audiores_1F8DFE59_22DA_9574_41BD_D84C1D0CA280.oggUrl = media/audio_087C4FBC_2D5A_B32C_41B3_F7C71668B9EF_pt.ogg
+
+### Title
+panorama_012C4F56_1D6A_E1D6_41AD_31186EFED2A0.label = 1
+panorama_3E2B4047_2DF9_8D5B_4192_4668637BB688.label = 10-DeNoiseAI-standard
+panorama_3E2B47B9_2DF9_F337_41AF_CEE7C1055A04.label = 11-DeNoiseAI-standard
+panorama_3E2B0F1C_2DF9_F4ED_41BF_285F3A65DE84.label = 12-DeNoiseAI-standard
+panorama_3E2B369E_2DF9_95ED_41B0_B8D3D02461F4.label = 13-DeNoiseAI-standard
+panorama_3E2B1E40_2DF9_9555_417E_A9E977A6F2B8.label = 14-DeNoiseAI-standard
+panorama_3E2BE777_2DF9_B33B_418E_380753D44CE3.label = 15-DeNoiseAI-standard
+panorama_3E2B8EBB_2DF9_B52B_41C1_2132B0EEF7B5.label = 16-DeNoiseAI-standard
+panorama_3E2B967C_2DF9_952D_41B0_619DEEA18CD8.label = 17-DeNoiseAI-standard
+panorama_3E29BE7B_2DF9_952B_41A5_ED9D37333FB1.label = 18-DeNoiseAI-standard
+panorama_3E2845CE_2DE6_776D_41BD_77DC0DAE576B.label = 19-DeNoiseAI-standard
+panorama_3850AE4F_2DFA_956C_41AB_F6F34D3EF6B7.label = 2-DeNoiseAI-standard
+panorama_3E2B9D22_2DE6_74D4_41AD_F82CE8CA22AA.label = 20-DeNoiseAI-standard
+panorama_3E568465_2DE6_955F_419F_53C4BC88462F.label = 21-DeNoiseAI-standard
+panorama_3E288C45_2DE6_955F_41AF_DF43356C6FFA.label = 22-DeNoiseAI-standard
+panorama_3E293454_2DE6_B57C_41B5_39BACE710375.label = 23-DeNoiseAI-standard
+panorama_3E28BD0E_2DE6_B4ED_41BE_810B4CD2128A.label = 24-DeNoiseAI-standard
+panorama_3E28C4FD_2DE6_952F_4174_37F517386258.label = 25-DeNoiseAI-standard
+panorama_3E289C9F_2DE6_95EB_41B7_A476159AB2E9.label = 26-DeNoiseAI-standard
+panorama_3E28E3CF_2DE6_F36C_4189_E7A6E3715814.label = 27-DeNoiseAI-standard
+panorama_3E28FB0C_2DE6_FCED_41B1_5AEBEE1BB5B3.label = 28-DeNoiseAI-standard
+panorama_3E284318_2DE6_8CF5_41B2_56BE10FD7A7F.label = 29-DeNoiseAI-standard
+panorama_3E2858D5_2DFA_7D7F_41B7_3079731960E7.label = 3-DeNoiseAI-standard
+panorama_3E283B06_2DE6_9CDC_41A5_43BFA977D613.label = 30-DeNoiseAI-standard
+panorama_3E287284_2DE6_8DDD_41B7_06F9E807E627.label = 31-DeNoiseAI-standard
+panorama_3E2849B6_2DE6_BF3D_41C1_F55347E6E34D.label = 32-DeNoiseAI-standard
+panorama_3E2820F5_2DE6_8D3C_419C_50EB6EF4D361.label = 33-DeNoiseAI-standard
+panorama_3E284883_2DE6_9DDB_41AE_6DB03F91233B.label = 34-DeNoiseAI-standard
+panorama_3E281012_2DE6_8CF5_41B9_B228CFD944D6.label = 35-DeNoiseAI-standard
+panorama_3E285793_2DE6_73FB_418E_93D80B391B8E.label = 36-DeNoiseAI-standard
+panorama_3E29E022_2DE7_8CD5_41C1_C65805A41DBC.label = 37-DeNoiseAI-standard
+panorama_3E29B850_2DE7_9D75_41A6_AF541762DDD4.label = 38-DeNoiseAI-standard
+panorama_3E29E0DD_2DE7_8D6F_41B5_E9F575AC2985.label = 39-DeNoiseAI-standard
+panorama_3E2AB0F3_2DF9_8D3B_41A4_E633A3EB7665.label = 4-DeNoiseAI-standard
+panorama_3E29FA7A_2DE7_BD35_41BD_3EEFF0B05D32.label = 40-DeNoiseAI-standard
+panorama_3E280378_2DE7_9335_41AE_4F9A9D2C30CA.label = 41-DeNoiseAI-standard
+panorama_3E2AE8D3_2DF9_9D7B_419C_1D4E2C77EF33.label = 5-DeNoiseAI-standard
+panorama_3E2AE074_2DF9_8D3D_41A2_B135670136E9.label = 6-DeNoiseAI-standard
+panorama_3E2B2806_2DF9_BCDD_41B3_2D73FF7E7F36.label = 7-DeNoiseAI-standard
+panorama_3E2B6FC7_2DF9_B35B_41A4_D5A9FA8C7AB7.label = 8-DeNoiseAI-standard
+panorama_3E2B47F9_2DF9_9337_41C1_94E19E53DB63.label = 9-DeNoiseAI-standard
+panorama_0DEC5271_2D79_8D37_41A3_44E50CDCB6E2.label = aerea pronta-DeNoiseAI-standard (1)
+
+## Skin
+
+### Button
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28.label = FALE CONOSCO
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28_mobile.label = FALE CONOSCO
+
+### Image
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.path = null
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.path = null
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.path = null
+Image_429C7430_4C03_766B_41A2_3F34D997C386.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.url = skin/Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_pt.png
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.url = skin/Image_427F1976_4C02_BED4_41B4_7D00FAFB9512_pt.png
+Image_429C7430_4C03_766B_41A2_3F34D997C386.url = skin/Image_429C7430_4C03_766B_41A2_3F34D997C386_pt.png
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.url = skin/Image_431B85D3_4C07_762D_41D5_D99ABD1F917C_pt.png
+
+### Tooltip
+IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Faça um Tour Virtual e Conheça a Propriedade
+
+### Title
+tour.name = Propriedade Na Praia da Sepultura em Bombinhas SC
