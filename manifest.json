@@ -1,8 +1,6 @@
 {
  "name": "Propriedade Na Praia da Sepultura em Bombinhas SC",
  "start_url": "index.htm",
- "description": "Faça um Tour Virtual e Conheça a Propriedade",
- "theme_color": "#FFFFFF",
  "display": "fullscreen",
  "icons": [
   {
@@ -41,5 +39,7 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "description": "Faça um Tour Virtual e Conheça a Propriedade",
+ "theme_color": "#FFFFFF"
 }
